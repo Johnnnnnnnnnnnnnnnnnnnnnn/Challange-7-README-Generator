@@ -10,7 +10,7 @@ This is a README generator that is made using Node.js and javascript.
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
-[License](#license)
+- [License](#license)
 
 ## Installation
 - Install node.js on your computer.
