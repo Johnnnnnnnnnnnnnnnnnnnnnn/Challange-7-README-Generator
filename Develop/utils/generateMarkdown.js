@@ -48,7 +48,7 @@ ${data.description}
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
-${licenseLink}
+- ${licenseLink}
 
 ## Installation
 ${data.installation}

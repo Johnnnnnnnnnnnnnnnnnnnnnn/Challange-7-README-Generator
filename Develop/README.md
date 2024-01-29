@@ -25,5 +25,4 @@ Is to be used to quickly generate a README file for a project.
 - Jonathan Santoso
 
 ## License
-
-This project is licensed under the MIT License.
+None
